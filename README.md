@@ -1,7 +1,12 @@
 # NetScience
 
-There is a good and short review for me to revise three important packages related to **Network Science** in **Python** and **R**, including **networkx**, **igraph**, and **pathpy**. 
+There is a good review for myself to revise knowledges and applications related to **Network Science** in **Python** and **R**. Besides, it is a good cohesion to integrate different sources for **further teaching** issues.
 
-Besides, it is a good cohesion to integrate different sources for **further teaching** issues.
+## Python
+- A First Course in Network Science: https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/
+- Network data science: https://github.com/bdpedigo/networks-course
+- 
 
-At least, I will list all basic tutorials and things related to spatial analysis, and even GeoAI.
+## R
+- Statistical network models: https://www.stat.cmu.edu/~cshalizi/networks/16-1/
+- Mixed Graphical Models: https://www.uu.nl/en/research/centre-for-complex-systems-studies-ccss/research/complexity-lab-utrecht-clue/software/data-analysis/mgm-mixed-graphical-models
